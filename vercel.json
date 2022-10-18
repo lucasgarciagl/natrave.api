@@ -3,7 +3,7 @@
     {
 
     "source":"/(.*)",
-    "desttination": "/app"
+    "destination": "/app"
 
     }
 
